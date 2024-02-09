@@ -1,0 +1,75 @@
+header {
+  width: 1200px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+.panier {
+  margin-top: 10px;
+}
+.pp {
+  text-decoration: none;
+  color: rgb(224, 126, 27);
+}
+.cont1 {
+  background-color: #c9c9ca;
+  width: 500px;
+  height: 300px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+.cont2 {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  background-color: #c9c9ca;
+  width: 1700px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.container {
+  width: auto;
+
+  display: flex;
+  gap: 10px;
+}
+.texte {
+  font-size: 23px;
+  text-decoration: none;
+  color: white;
+}
+.coeur {
+  display: flex;
+  justify-content: space-between;
+}
+.grand {
+  font-size: 30px;
+}
+.containerpanier {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+.achter {
+  width: 950px;
+  background-color: #c9c9ca;
+  padding-left: 5px;
+}
+.totalachat {
+  width: 400px;
+  background-color: #c9c9ca;
+}
+
+#pp {
+  margin-left: 30px;
+}
+.achter {
+  display: flex;
+  justify-content: space-between;
+}
+.total {
+  display: flex;
+
+}
